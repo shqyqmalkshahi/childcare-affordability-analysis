@@ -94,6 +94,12 @@ This project uses multiple formats to communicate insights:
 
 ---
 
+## 🎥 Project Presentation
+Watch the full video presentation here:  
+https://drive.google.com/file/d/12S8JTiOVaEFbCgLlCo1qs4B_2LZn0-N8/view?usp=sharing
+
+---
+
 ##  Author
 Shaghayegh Malekshahi  
 Master’s in Data Science – Bellevue University
